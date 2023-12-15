@@ -9,12 +9,6 @@
 # 💫 About Me:
 🎓 Passionate student diving into the world of web development.<br>🚀 Eager to learn and collaborate on exciting projects.<br>💻 Currently building a foundation in full-stack technologies.<br>🌟 Open to discussing the journey into coding and the challenges of being a student developer.<br><br>
 
-
-
-
-
-
-
 # 💻 Tech Stack:
 ###
 
@@ -41,7 +35,8 @@
   <img width="12" />
 </div>
 
-
+<div align="center">
+  
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=GowthamXeno&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=GowthamXeno&theme=gotham&hide_border=false)<br/>
@@ -49,9 +44,10 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=GowthamXeno&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
----
 [![](https://visitcount.itsvg.in/api?id=GowthamXeno&icon=9&color=0)](https://visitcount.itsvg.in)
+
 ## 🌐 Socials:
 <div align="left" style="display: flex; gap: 10px;">
   <a href="https://www.linkedin.com/in/gowtham-m-75973a22a/" target="_blank">
@@ -67,10 +63,10 @@
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/gowthamxeno) 
-
+<!--
 ##
 
 ![snake animation](https://github.com/GowthamXeno/GowthamXeno/blob/output/github-contribution-grid-snake2.svg)
 
-##
+## -->
   
