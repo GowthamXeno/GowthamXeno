@@ -63,12 +63,16 @@
   </a>
 </div>
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/gowthamxeno) 
+  ## 💰Feel free to contribute or show your support!
+<!--  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/gowthamxeno) -->
+<a href="https://www.buymeacoffee.com/gowthamxeno" target="_blank">
+  <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=%E2%98%95&slug=gowthamxeno&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff" alt="Buy Me a Coffee">
+</a>
 
-##
+
+<!-- ##
 
 ![snake animation](https://github.com/GowthamXeno/GowthamXeno/blob/output/github-contribution-grid-snake2.svg)
 
-##
+## -->
   
