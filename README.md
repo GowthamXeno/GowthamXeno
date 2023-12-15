@@ -1,16 +1,75 @@
-### Hi there 👋
+<h1 align="left">Heyy Guys ❤!</h1>
 
-<!--
-**GowthamXeno/GowthamXeno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">I'm Gowtham, a devoted enthusiast with a passion for coding !</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+# 💫 About Me:
+🎓 Passionate student diving into the world of web development.<br>🚀 Eager to learn and collaborate on exciting projects.<br>💻 Currently building a foundation in full-stack technologies.<br>🌟 Open to discussing the journey into coding and the challenges of being a student developer.<br><br>
+
+
+
+
+
+
+
+# 💻 Tech Stack:
+###
+
+<div align="left">
+  <img src="https://github.com/GowthamXeno/StudyX/assets/101506428/21975c52-f5b5-4d16-ac20-ade6d15f6139" height="40" alt="Html"  />
+  <img width="12" />
+  <img src="https://github.com/GowthamXeno/StudyX/assets/101506428/c68718f4-0feb-4e76-8412-352a79b6f134" height="40" alt="Css3"  />
+  <img width="12" />
+   <img src="https://github.com/GowthamXeno/StudyX/assets/101506428/ac27deb2-42fc-4c0a-ada6-c1c33e4d7cfc" height="40" alt="javascript"  />
+  <img width="12" />
+  <img src="https://github.com/GowthamXeno/StudyX/assets/101506428/4fd02533-45c8-43ae-bea3-2d868fa8a1cb" height="40" alt="cplusplus"  />
+  <img width="12" />
+  <img src="https://github.com/GowthamXeno/StudyX/assets/101506428/0599fce7-e00d-4dfe-afe4-6d15684df010" height="40" alt="Java"  />
+  <img width="12" />
+</div>
+
+## Tools:
+<div align="left">
+    <img src="https://github.com/GowthamXeno/StudyX/assets/101506428/903d41d4-79a9-471e-8649-56cc4b1c265b" height="40" alt="Github"  />
+  <img width="12" />
+    <img src="https://github.com/GowthamXeno/StudyX/assets/101506428/d35f874c-131c-46e1-8dd4-ae786d1a9eee" height="40" alt="VsCode"  />
+  <img width="12" />
+    <img src="" height="40" alt=""  />
+  <img width="12" />
+</div>
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=GowthamXeno&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=GowthamXeno&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GowthamXeno&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=GowthamXeno&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=GowthamXeno&icon=9&color=0)](https://visitcount.itsvg.in)
+## 🌐 Socials:
+<div align="left" style="display: flex; gap: 10px;">
+  <a href="https://www.linkedin.com/in/gowtham-m-75973a22a/" target="_blank">
+    <img src="https://github.com/GowthamXeno/StudyX/assets/101506428/06111dae-3ed1-416f-a0a3-f95616cb0c9f" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/gowthamxeno" target="_blank">
+    <img src="https://github.com/GowthamXeno/StudyX/assets/101506428/7a38624c-a160-4c37-b41d-14fcb8b9aa92" width="52" height="40" alt="Instagram"  />
+  </a>
+   <a href="https://discord.gg/https://discord.gg/aVx39y5Eq6" target="_blank">
+    <img src="https://github.com/GowthamXeno/StudyX/assets/101506428/23a1551c-45cc-47bd-9313-e8ef0dd56082" width="52" height="40" alt="Discord"  />
+  </a>
+</div>
+
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/gowthamxeno) 
+
+##
+![snake animation](https://github.com/GowthamXeno/GowthamXeno/blob/output/github-contribution-grid-snake2.svg)
+##
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
