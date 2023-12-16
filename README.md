@@ -47,8 +47,11 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=GowthamXeno&limit=5&theme=dark&combine_all_yearly_contributions=true)
 </div>
-
-[![](https://visitcount.itsvg.in/api?id=GowthamXeno&icon=9&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=GowthamXeno&label=Profile%20Views&pretty=true" />
+</a>
+<div>
 
 ## 🌐 Socials:
 <div align="left" style="display: flex; gap: 10px;">
