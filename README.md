@@ -1,4 +1,4 @@
-![Banner Image](https://github.com/GowthamXeno/StudyX/assets/101506428/97756014-f115-4fb6-986a-4a72d7532523)
+<img src="https://github.com/GowthamXeno/StudyX/assets/101506428/6d768d42-03ef-4941-a6da-f88b356766a0" height = "270" width = "100%"/>
 
 <h1 align="left">Heyy Guys ❤!</h1>
 
@@ -35,11 +35,13 @@
   <img width="12" />
     <img src="" height="40" alt=""  />
   <img width="12" />
+  <br>
+  <br>
 </div>
 
+# 📊 GitHub Stats:
 <div align="center">
   
-# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=GowthamXeno&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=GowthamXeno&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GowthamXeno&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
@@ -51,7 +53,7 @@
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=GowthamXeno&label=Profile%20Views&pretty=true" />
 </a>
-<div>
+</div>
 
 ## 🌐 Socials:
 <div align="left" style="display: flex; gap: 10px;">
