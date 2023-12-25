@@ -11,27 +11,27 @@
 # 💫 About Me:
 🎓 Passionate student diving into the world of web development.<br>🚀 Eager to learn and collaborate on exciting projects.<br>💻 Currently building a foundation in full-stack technologies.<br>🌟 Open to discussing the journey into coding and the challenges of being a student developer.<br><br>
 
-# 💻 Tech Stack:
+# 🪡 Tech Stack:
 ###
 
 <div align="left">
-  <img src="https://github.com/GowthamXeno/StudyX/assets/101506428/21975c52-f5b5-4d16-ac20-ade6d15f6139" height="40" alt="Html"  />
+  <img src="https://github.com/GowthamXeno/GowthamXeno/assets/101506428/a2092bf0-b82c-41b6-b147-d98689effd50" height="40" alt="Html"  />
   <img width="12" />
-  <img src="https://github.com/GowthamXeno/StudyX/assets/101506428/c68718f4-0feb-4e76-8412-352a79b6f134" height="40" alt="Css3"  />
+  <img src="https://github.com/GowthamXeno/GowthamXeno/assets/101506428/0b62fa14-b015-49e1-a688-8e53bfb2b420" height="40" alt="Css3"  />
   <img width="12" />
-   <img src="https://github.com/GowthamXeno/StudyX/assets/101506428/ac27deb2-42fc-4c0a-ada6-c1c33e4d7cfc" height="40" alt="javascript"  />
+   <img src="https://github.com/GowthamXeno/GowthamXeno/assets/101506428/01a996a4-8a32-4c18-b4c5-78fddd71ce38" height="40" alt="javascript"  />
   <img width="12" />
-  <img src="https://github.com/GowthamXeno/StudyX/assets/101506428/4fd02533-45c8-43ae-bea3-2d868fa8a1cb" height="40" alt="cplusplus"  />
+  <img src="https://github.com/GowthamXeno/GowthamXeno/assets/101506428/b23f0cc3-126a-404a-bede-9c6b88373967" height="40" alt="cplusplus"  />
   <img width="12" />
-  <img src="https://github.com/GowthamXeno/StudyX/assets/101506428/0599fce7-e00d-4dfe-afe4-6d15684df010" height="40" alt="Java"  />
+  <img src="https://github.com/GowthamXeno/GowthamXeno/assets/101506428/1235a585-5b0f-4afe-b642-72d449665fae" height="40" alt="Java"  />
   <img width="12" />
 </div>
 
 ## Tools:
 <div align="left">
-    <img src="https://github.com/GowthamXeno/StudyX/assets/101506428/903d41d4-79a9-471e-8649-56cc4b1c265b" height="40" alt="Github"  />
+    <img src="https://github.com/GowthamXeno/GowthamXeno/assets/101506428/2b6a2ae9-c0b3-4625-9bbb-ee5178c3b5c7" height="40" alt="Github"  />
   <img width="12" />
-    <img src="https://github.com/GowthamXeno/StudyX/assets/101506428/d35f874c-131c-46e1-8dd4-ae786d1a9eee" height="40" alt="VsCode"  />
+    <img src="https://github.com/GowthamXeno/GowthamXeno/assets/101506428/6de54543-9271-45b0-99bd-63b038d26e2b" height="40" alt="VsCode"  />
   <img width="12" />
     <img src="" height="40" alt=""  />
   <img width="12" />
@@ -58,13 +58,13 @@
 ## 🌐 Socials:
 <div align="left" style="display: flex; gap: 10px;">
   <a href="https://www.linkedin.com/in/gowtham-m-75973a22a/" target="_blank">
-    <img src="https://github.com/GowthamXeno/StudyX/assets/101506428/06111dae-3ed1-416f-a0a3-f95616cb0c9f" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://github.com/GowthamXeno/GowthamXeno/assets/101506428/4c0b70c6-836f-442e-aa06-937803a96d5e" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/gowthamxeno" target="_blank">
-    <img src="https://github.com/GowthamXeno/StudyX/assets/101506428/7a38624c-a160-4c37-b41d-14fcb8b9aa92" width="52" height="40" alt="Instagram"  />
+    <img src="https://github.com/GowthamXeno/GowthamXeno/assets/101506428/86b222d8-e322-4e27-84b6-bc66585ece63" width="52" height="40" alt="Instagram"  />
   </a>
    <a href="https://discord.gg/https://discord.gg/aVx39y5Eq6" target="_blank">
-    <img src="https://github.com/GowthamXeno/StudyX/assets/101506428/23a1551c-45cc-47bd-9313-e8ef0dd56082" width="52" height="40" alt="Discord"  />
+    <img src="https://github.com/GowthamXeno/GowthamXeno/assets/101506428/259af4b1-0e48-448a-b19d-b1177d8a28d9" width="52" height="40" alt="Discord"  />
   </a>
 </div>
 
