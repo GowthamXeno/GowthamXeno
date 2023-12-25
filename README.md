@@ -1,4 +1,4 @@
-<img src="https://github.com/GowthamXeno/StudyX/assets/101506428/6d768d42-03ef-4941-a6da-f88b356766a0" height = "260" width = "100%"/>
+<img src="https://github.com/GowthamXeno/GowthamXeno/assets/101506428/d65b23bd-dabe-4e99-8f46-6c238272bdd5" height = "265" width = "100%"/>
 
 <h1 align="left">Heyy Guys ❤!</h1>
 
