@@ -1,4 +1,4 @@
-<img src="https://github.com/GowthamXeno/GowthamXeno/assets/101506428/d65b23bd-dabe-4e99-8f46-6c238272bdd5" alt="Your Image" style="max-width:100%; height:auto;" />
+<img src="https://github.com/GowthamXeno/GowthamXeno/assets/101506428/d65b23bd-dabe-4e99-8f46-6c238272bdd5" alt="Banner" style="max-width:100%; height:auto;" />
 
 <h1 align="left">Heyy Guys ❤!</h1>
 
