@@ -76,6 +76,6 @@
 
 
 
-![snake animation](https://github.com/GowthamXeno/GowthamXeno/blob/output/github-contribution-grid-snake2.svg)
-
+<!-- ![snake animation](https://github.com/GowthamXeno/GowthamXeno/blob/output/github-contribution-grid-snake2.svg)
+-->
   
