@@ -1,4 +1,4 @@
-<img src="https://github.com/GowthamXeno/GowthamXeno/assets/101506428/d65b23bd-dabe-4e99-8f46-6c238272bdd5" alt="Banner" style="max-width:100%; height:auto;" />
+<!-- <img src="https://github.com/GowthamXeno/GowthamXeno/assets/101506428/d65b23bd-dabe-4e99-8f46-6c238272bdd5" alt="Banner" style="max-width:100%; height:auto;" /> -->
 
 <h1 align="left">Heyy Guys ❤!</h1>
 
@@ -42,18 +42,18 @@
 # 📊 GitHub Stats:
 <div align="center">
   
-![](https://github-readme-stats.vercel.app/api?username=GowthamXeno&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<span>![](https://github-readme-stats.vercel.app/api?username=GowthamXeno&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)</spam>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=GowthamXeno&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GowthamXeno&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GowthamXeno&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=GowthamXeno&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<!--### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=GowthamXeno&limit=5&theme=dark&combine_all_yearly_contributions=true)-->
 </div>
-<div align="center">
+<!-- <div align="center">
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=GowthamXeno&label=Profile%20Views&pretty=true" />
 </a>
-</div>
+</div> -->
 
 ## 🌐 Socials:
 <div align="left" style="display: flex; gap: 10px;">
