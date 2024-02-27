@@ -43,7 +43,7 @@
 <div align="center">
   
 <span>![](https://github-readme-stats.vercel.app/api?username=GowthamXeno&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)</span>
-![](https://github-readme-streak-stats.herokuapp.com/?user=GowthamXeno&theme=gotham&hide_border=false)<br/>
+<span>![](https://github-readme-streak-stats.herokuapp.com/?user=GowthamXeno&theme=gotham&hide_border=false)</span><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GowthamXeno&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
 
 <!--### 🔝 Top Contributed Repo
