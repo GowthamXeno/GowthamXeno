@@ -19,7 +19,7 @@
   <img width="12" />
   <img src="https://github.com/GowthamXeno/GowthamXeno/assets/101506428/818d48e3-f8de-4641-83f6-e2b9b13faf07" height="40" alt="Nodejs"  />
   <img width="12" />
-  <img src="https://github.com/GowthamXeno/GowthamXeno/assets/101506428/1d2dec2c-8702-47b7-9b14-d184aa69c9c8" height="40" alt="ExpressJs"  />
+  <img src="https://github.com/GowthamXeno/GowthamXeno/assets/101506428/8d93948b-c9da-40e7-8953-75a9b0d4cbdb" height="40" alt="ExpressJs"  />
   <img width="12" />
   <img src="https://github.com/GowthamXeno/GowthamXeno/assets/101506428/49dd0ee7-f457-4ba0-ad4a-c43e6d76c673" height="40" alt="MongoDb"  />
   <img width="12" />
