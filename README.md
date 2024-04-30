@@ -9,9 +9,11 @@
 ###
 
 # 💫 About Me:
+
 🎓 Passionate student diving into the world of web development.<br>🚀 Eager to learn and collaborate on exciting projects.<br>💻 Currently building a foundation in full-stack technologies.<br>🌟 Open to discussing the journey into coding and the challenges of being a student developer.<br><br>
 
 # 🪡 Tech Stack:
+
 ###
 
 <div align="left">
@@ -42,6 +44,7 @@
 </div>
 
 ## Tools:
+
 <div align="left">
     <img src="https://github.com/GowthamXeno/GowthamXeno/assets/101506428/2b6a2ae9-c0b3-4625-9bbb-ee5178c3b5c7" height="40" alt="Github"  />
   <img width="12" />
@@ -58,11 +61,12 @@
 </div>
 
 # 📊 GitHub Stats:
+
 <div align="center">
   
 <span>![](https://github-readme-stats.vercel.app/api?username=GowthamXeno&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)</span>
 <span>![](https://github-readme-streak-stats.herokuapp.com/?user=GowthamXeno&theme=gotham&hide_border=false)</span><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GowthamXeno&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GowthamXeno&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!--### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=GowthamXeno&limit=5&theme=dark&combine_all_yearly_contributions=true)-->
@@ -74,6 +78,7 @@
 </div> -->
 
 ## 🌐 Socials:
+
 <div align="left" style="display: flex; gap: 10px;">
   <a href="https://www.linkedin.com/in/gowtham-m-75973a22a/" target="_blank">
     <img src="https://github.com/GowthamXeno/GowthamXeno/assets/101506428/4c0b70c6-836f-442e-aa06-937803a96d5e" width="52" height="40" alt="linkedin logo"  />
@@ -86,18 +91,17 @@
   </a>
 </div>
 
-  ## 💰Feel free to contribute or show your support!
+## 💰Feel free to contribute or show your support!
+
 <!--  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/gowthamxeno) -->
 <a href="https://www.buymeacoffee.com/gowthamxeno" target="_blank">
   <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=%E2%98%95&slug=gowthamxeno&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff" alt="Buy Me a Coffee">
 </a>
 
-
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/GowthamXeno/GowthamXeno/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
-  
