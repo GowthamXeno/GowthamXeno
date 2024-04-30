@@ -17,6 +17,8 @@
 <div align="left">
   <img src="https://github.com/GowthamXeno/GowthamXeno/assets/101506428/b440ba5e-8c16-403d-8177-ffc25fc339d3" height="40" alt="React"  />
   <img width="12" />
+  <img src="https://github.com/GowthamXeno/GowthamXeno/assets/101506428/01a996a4-8a32-4c18-b4c5-78fddd71ce38" height="40" alt="javascript"  />
+  <img width="12" />
   <img src="https://github.com/GowthamXeno/GowthamXeno/assets/101506428/818d48e3-f8de-4641-83f6-e2b9b13faf07" height="40" alt="Nodejs"  />
   <img width="12" />
   <img src="https://github.com/GowthamXeno/GowthamXeno/assets/101506428/8d93948b-c9da-40e7-8953-75a9b0d4cbdb" height="40" alt="ExpressJs"  />
@@ -27,15 +29,15 @@
   <img width="12" />
   <img src="https://github.com/GowthamXeno/GowthamXeno/assets/101506428/1d2dec2c-8702-47b7-9b14-d184aa69c9c8" height="40" alt="BootStrap"  />
   <img width="12" />
+  <img src="https://github.com/GowthamXeno/GowthamXeno/assets/101506428/90629675-fbd6-48a8-af96-edc7b39e1232" height="40" alt="Git"  />
+  <img width="12" />
   <img src="https://github.com/GowthamXeno/GowthamXeno/assets/101506428/a2092bf0-b82c-41b6-b147-d98689effd50" height="40" alt="Html"  />
   <img width="12" />
   <img src="https://github.com/GowthamXeno/GowthamXeno/assets/101506428/0b62fa14-b015-49e1-a688-8e53bfb2b420" height="40" alt="Css3"  />
   <img width="12" />
-  <img src="https://github.com/GowthamXeno/GowthamXeno/assets/101506428/01a996a4-8a32-4c18-b4c5-78fddd71ce38" height="40" alt="javascript"  />
+  <img src="https://github.com/GowthamXeno/GowthamXeno/assets/101506428/1235a585-5b0f-4afe-b642-72d449665fae" height="40" alt="Java"  />
   <img width="12" />
   <img src="https://github.com/GowthamXeno/GowthamXeno/assets/101506428/b23f0cc3-126a-404a-bede-9c6b88373967" height="40" alt="cplusplus"  />
-  <img width="12" />
-  <img src="https://github.com/GowthamXeno/GowthamXeno/assets/101506428/1235a585-5b0f-4afe-b642-72d449665fae" height="40" alt="Java"  />
   <img width="12" />
 </div>
 
@@ -45,7 +47,13 @@
   <img width="12" />
     <img src="https://github.com/GowthamXeno/GowthamXeno/assets/101506428/6de54543-9271-45b0-99bd-63b038d26e2b" height="40" alt="VsCode"  />
   <img width="12" />
-    <img src="" height="40" alt=""  />
+    <img src="https://github.com/GowthamXeno/GowthamXeno/assets/101506428/18e0e808-3ce2-4bf4-aef9-22d299e06031" height="40" alt="Postman"  />
+  <img width="12" />
+  <img src="https://github.com/GowthamXeno/GowthamXeno/assets/101506428/18e0e808-3ce2-4bf4-aef9-22d299e06031" height="40" alt="Postman"  />
+  <img width="12" />
+  <img src="https://github.com/GowthamXeno/GowthamXeno/assets/101506428/597738f5-cbe4-4520-a5eb-ae876651a0ab" height="40" alt="Render"  />
+  <img width="12" />
+  <img src="https://github.com/GowthamXeno/GowthamXeno/assets/101506428/5446097c-b080-469b-aced-2970399c249c" height="40" alt="Vercel"  />
   <img width="12" />
   <br>
   <br>
