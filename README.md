@@ -49,8 +49,6 @@
   <img width="12" />
     <img src="https://github.com/GowthamXeno/GowthamXeno/assets/101506428/18e0e808-3ce2-4bf4-aef9-22d299e06031" height="40" alt="Postman"  />
   <img width="12" />
-  <img src="https://github.com/GowthamXeno/GowthamXeno/assets/101506428/18e0e808-3ce2-4bf4-aef9-22d299e06031" height="40" alt="Postman"  />
-  <img width="12" />
   <img src="https://github.com/GowthamXeno/GowthamXeno/assets/101506428/597738f5-cbe4-4520-a5eb-ae876651a0ab" height="40" alt="Render"  />
   <img width="12" />
   <img src="https://github.com/GowthamXeno/GowthamXeno/assets/101506428/5446097c-b080-469b-aced-2970399c249c" height="40" alt="Vercel"  />
