@@ -50,7 +50,7 @@
   <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/GowthamXeno/GowthamXeno/output/github-contribution-grid-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/GowthamXeno/GowthamXeno/output/github-contribution-grid-snake-dark-xeno.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
@@ -58,7 +58,7 @@
   />
   <img
     alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/GowthamXeno/GowthamXeno/output/github-contribution-grid-snake-dark.svg"
+    src="https://raw.githubusercontent.com/GowthamXeno/GowthamXeno/output/github-contribution-grid-snake-dark-xeno.svg"
   />
 </picture>
   
