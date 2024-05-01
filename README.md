@@ -34,11 +34,11 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">🌟💻🔧 Languages-Frameworks-Tools 🔧💻🌟</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=react,javascript,java,nodejs,mongodb,express,html,css,git" />
+    <img src="https://skillicons.dev/icons?i=vscode,npm,tailwind,bootstrap,github,postman,vercel" /><br>
 </div>
 
 <br/>
@@ -62,7 +62,7 @@
   />
 </picture>
   
-  <br/><br/><br/>
+  <br/>
 </div>
 
 <hr/>
@@ -70,20 +70,40 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=GowthamXeno&theme=transparent&hide_border=true" alt="GitHub Streak" /></a>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=GowthamXeno&count_private=true&show_icons=true&theme=transparent&rank_icon=github&hide_border=true" alt="readme stats"/>
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=GowthamXeno&hide=HTML&langs_count=8&layout=compact&theme=transparent&hide_border=true&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
 
+
 <hr/>
 
-<br/>
+<h2 align="center">🌐👥 Feel Free to Contact me ! 👥🌐</h2>
 
+<div align="center" style="display: flex;justify-content:center; gap: 10px;">
+  <a href="mailto:gowthamudpm2004@gmail.com" target="_blank">
+    <img src="https://socialize-md.vercel.app/api/badge/mail" width="52" height="40" alt="mail"  />
+  </a>
+  <a href="https://www.linkedin.com/in/gowtham-m-75973a22a/" target="_blank">
+    <img src="https://socialize-md.vercel.app/api/badge/linkedin" width="52" height="40" alt="linkedin"  />
+  </a>
+  <a href="https://www.instagram.com/gowthamxeno" target="_blank">
+    <img src="https://socialize-md.vercel.app/api/badge/instagram" width="52" height="40" alt="Instagram"  />
+  </a>
+   <a href="https://discord.gg/https://discord.gg/aVx39y5Eq6" target="_blank">
+    <img src="https://socialize-md.vercel.app/api/badge/discord" width="52" height="40" alt="Discord"  />
+  </a>
+</div>
+<br/>
+<hr/>
+<h2 align="center">💰✨ Show Your Support! ✨💰</h2>
 <div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href="https://www.buymeacoffee.com/gowthamxeno" target="_blank">
+  <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=%E2%98%95&slug=gowthamxeno&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff" alt="Buy Me a Coffee">
+</a>
 </div>
 
 <br/>
