@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 Passionate student diving into the world of **Web Development**
+ 🔭 Passionate student diving into the world of **Java & Web Development**
  
  🌱 Currently building a foundation in **Full-Stack technologies**
 
